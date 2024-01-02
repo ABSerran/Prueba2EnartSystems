@@ -1,0 +1,13 @@
+Objetivo: Montar una aplicación web tradicional con framework ZKOSS.
+
+Los pasos a seguir: 
+- ⁠Bajar e instalar la demo de ZKOSS y en la documentación explica como hacer la configuración. 
+Sigue los pasos para crear la página (la parte de cliente)
+- ⁠Crear un proyecto en Eclipse con Apache tradicional 
+- ⁠Crear API de Spring Boot donde se va a publicar los microservicios y desde ZKOSS acceder a esos servicios 
+- ⁠Se puede hacer en dos partes:
+1. Crear aplicación de ZKOSS o API. 
+2. ⁠Después la otra 
+- También está la opción de crear con ZKOOS con Spring Boot en lugar de hacerlo de la manera tradicional. 
+Hay un proyecto en GitHub donde te puedes descargar varios ejemplos y está integrado con Spring Boot. 
+- Recomendación: Hacerlo con Spring Boot
